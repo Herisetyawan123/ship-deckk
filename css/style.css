@@ -6,7 +6,6 @@
 }
 
 :root {
-  /* Color palette */
   --color-navy-900: #0f1a2a;
   --color-navy-800: #1a2c47;
   --color-navy-700: #273c59;
@@ -14,7 +13,7 @@
   --color-navy-500: #416087;
   --color-navy-100: #e9edf2;
   --color-navy-50: #f4f6f9;
-  --color-secondary: #d4af37; /* Gold accent */
+  --color-secondary: #d4af37; 
   --color-secondary-light: #e6c75c;
   --color-white: #ffffff;
   --color-black: #000000;
